@@ -2,9 +2,8 @@
 
 ## Introduction
 
-In this task we will learn to use audio in javascript. We will create a simple audio player from which we can play one song with pause and seeking functionalities. We will use the audio file `Soft-Background-for-Interview.webm` located in the `audio`.
+In this task we will learn to use audio in JavaScript. We will create a simple audio player from which we can play one song with pause and seek functionalities. We will use the audio file `Soft-Background-for-Interview.webm` located in the `audio`.
 
-It will be left as a task to finish the audio player as described in [the moodle vle](https://vle.norwichuni.ac.uk/pluginfile.php/59293/mod_resource/content/8/WebFundamentalsTask3.pdf). 
 
 ## Knowledge / Learning
 In this task you will use:
